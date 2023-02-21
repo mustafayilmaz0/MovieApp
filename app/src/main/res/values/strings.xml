@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="_1">1</string>
+    <string name="id">ID:</string>
+    <string name="release_date">Release Date</string>
+    <string name="movie_title">Movie Title</string>
+</resources>
